@@ -1,0 +1,44 @@
+body{
+
+    width: 100vw;
+    height: 100vh;
+
+    background-color: rgb(157, 255, 127);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1{
+
+
+    width: 20em;
+    height: 20em;
+
+    background-color: red;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.div2{
+
+
+    width: 20em;
+    height: 20em;
+
+    background-color: rgb(119, 0, 255);
+
+    justify-content: center;
+    align-items: center;
+}
+
+
+.flex{
+    display: flex;
+}
+
+.none{
+    display: none;
+}
